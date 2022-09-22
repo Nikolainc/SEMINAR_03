@@ -129,7 +129,6 @@
         //vector2[2] = int.Parse(Console.ReadLine());
 
         //Console.WriteLine(Math.Round(Math.Sqrt(Math.Pow(vector1[0] - vector2[0], 2) + Math.Pow(vector1[1] - vector2[1], 2) + Math.Pow(vector1[2] - vector2[2], 2)), 2, MidpointRounding.ToNegativeInfinity));
-
         #endregion
 
         #region Задача 23
