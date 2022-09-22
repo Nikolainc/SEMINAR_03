@@ -73,12 +73,6 @@
 
         #endregion
 
-        #region Задача 4
-
-
-
-        #endregion
-
         #endregion
 
         #region HOMEWORK
